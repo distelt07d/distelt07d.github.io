@@ -83,11 +83,11 @@ header {
 }
 
 h1 {
-    color: #DC143C;
+    color: #7A4444;
 }
 
 h2, h3 {
-    color: #DC143C;
+    color: #7A4444;
 }
 
 nav ul {
@@ -129,7 +129,7 @@ footer {
 }
 
 button {
-    background-color: #DC143C;
+    background-color: #7A4444;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -138,7 +138,7 @@ button {
 }
 
 button:hover {
-    background-color: #DC143C;
+    background-color: #7A4444;
 }
 
 input, textarea {
